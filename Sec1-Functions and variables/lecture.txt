@@ -1,0 +1,44 @@
+code can be written in any text edditor because all code really is is text
+
+Functions: an action that lets you do somthing
+argument: and input that influances the Functions
+
+Mistakes are common
+bug: mistakes in programs
+
+input(): lets user return a value based on user input
+varibales: store values
+
+single eqaul sign(=) is the assignment operator
+
+comments: notes to self in code using #
+
+str: sting seqaunce of text
+
+backslash can be used to write qoutes in the print \"
+
+f at the begining of the sting tells the string its formated
+{} in a formeted string letts you add a varibales
+
+strings have built in Functions
+.strip(): remove white space
+.capitilize():capitilize
+.title(): go through each word and capitilize
+
+int: interger data type
+int(): coverts string into number
+
+float: decimal data type
+
+round(number[,ndigit])     #[] in documention is optional
+
+def
+making your own function
+
+peramented is exppected input like what we want
+
+when making a function we use the perameter in the ()
+
+convetion is writing whole code in main() then calling main()at the end
+
+return allows a function to give an output
